@@ -1,0 +1,3 @@
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pioasm/CMakeFiles/pioasm.dir
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pioasm/CMakeFiles/edit_cache.dir
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pioasm/CMakeFiles/rebuild_cache.dir

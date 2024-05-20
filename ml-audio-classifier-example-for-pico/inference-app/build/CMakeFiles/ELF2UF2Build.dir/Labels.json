@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/CMakeFiles/ELF2UF2Build"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/CMakeFiles/ELF2UF2Build.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/CMakeFiles/ELF2UF2Build-complete.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ELF2UF2Build"
+		],
+		"name" : "ELF2UF2Build"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

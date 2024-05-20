@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/files/pico/ML/audio-arm/ml-audio-classifier-example-for-pico/inference-app/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
